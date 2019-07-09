@@ -1,0 +1,24 @@
+#login
+{
+	display: block;	
+	align-content: center;
+	align-items: center;
+	text-align: center;
+	box-shadow: rgba(255,255,255,0.3) 5px 5px 20px;/*contorno difuminad*/
+
+}
+#contenedorlogin
+{
+	padding:30px;
+	
+	background-color:rgba(26, 63, 137, 0.32);
+	box-shadow:rgb(251, 247, 247) 5px 5px 20px;
+}
+body
+{
+	background-image: url("../../logeo/imagenes/1.jpg");
+}
+h1
+{
+	color: white;
+}

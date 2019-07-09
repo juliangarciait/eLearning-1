@@ -1,0 +1,46 @@
+  * 
+  {
+  padding: 0;
+  margin: 0;
+  }
+.contenido 
+{
+  padding-top: 85px;
+  background-color:#abbcb6; 
+
+
+
+}
+  .modal-header, .close, .modal-header h4 
+  {
+      background:#abbcb6;
+      
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer p
+  {
+      
+      text-align: center;
+  }
+  .container h4
+  {
+  	text-align: justify;
+  	font-family: 'Malgun Gothic Semilight';
+  	font-size: 21px;
+  
+
+  }
+
+
+  .title h2
+{
+	font-family: 'Roboto';
+	color:#141616 !important;
+	font-weight: 200;
+	font-size: 40px;
+	
+	text-transform: uppercase;
+}
+  
